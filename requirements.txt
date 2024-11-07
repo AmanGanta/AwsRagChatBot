@@ -1,0 +1,10 @@
+boto3
+firecrawl
+awscli
+langchain
+langchain_community
+python-dotenv
+bs4
+requests
+ipykernel
+openai
